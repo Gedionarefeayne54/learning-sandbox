@@ -1,6 +1,6 @@
 # 🤖 GPT-Clone — Backend
 
-A lean Express + MySQL backend that powers a ChatGPT-style chat app, using **Google Gemini** as the brain 🧠 behind the replies.
+A lean Express + MySQL backend that powers a ChatGPT-style chat app, using **Google Gemini** as the brain 🧠 behind the replies!.
 
 ---
 
@@ -38,7 +38,7 @@ This is where the magic happens ✨:
 
 Bonus: the Gemini client is created **lazily**, so a missing `GEMINI_API_KEY` fails gracefully with a clear error instead of crashing the whole server on boot 🛡️
 
-### 🧰 Utilities (`src/api/middleware/utils/asyncHandler.js`)
+### 🧰 Utilities(`src/api/middleware/utils/asyncHandler.js`)
 A small wrapper that catches errors from async route handlers and forwards them to Express's error handling — no more unhandled promise rejections silently taking down the server 🕸️
 
 ---
