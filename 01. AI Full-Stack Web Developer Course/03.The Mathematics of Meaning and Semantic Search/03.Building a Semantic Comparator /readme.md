@@ -12,7 +12,7 @@
 
 ---
 
-## ✨ Overview
+## ✨ Overviews
 
 Traditional diff tools compare text character-by-character or line-by-line, which misses cases where two documents say the same thing in different words. **Semantic Comparator** instead measures how *similar in meaning* two documents are — surfacing a similarity score and highlighting the sections that diverge in **content**, not just wording.
 
