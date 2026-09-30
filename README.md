@@ -1,8 +1,25 @@
+<div align="center">
+
 # 🧪 Learning Sandbox 🚀
 
 > **A dedicated workspace for documenting technical skill development, building hands-on projects, and mastering modern software engineering.** ⚡
 
+![Status](https://img.shields.io/badge/status-actively%20learning-brightgreen?style=flat-square)
+![Focus](https://img.shields.io/badge/focus-Full--Stack%20%2B%20AI-blueviolet?style=flat-square)
+![Made%20with](https://img.shields.io/badge/made%20with-%E2%98%95%20%26%20curiosity-orange?style=flat-square)
+
+</div>
+
 Welcome to my personal developer sandbox! This repository serves as an interactive lab where I transform theoretical concepts into working code, experiment with new technologies, and track my evolution as a full-stack engineer. 💻✨
+
+---
+
+## 📖 Table of Contents
+
+- [Roadmap & Learning Matrix](#-roadmap--learning-matrix)
+- [Featured Projects](#-featured-projects)
+- [Tech Stack & Toolkit](#-tech-stack--toolkit)
+- [Purpose & Mission](#-purpose--mission)
 
 ---
 
@@ -40,12 +57,28 @@ Welcome to my personal developer sandbox! This repository serves as an interacti
 
 ---
 
+### 🗂️ Featured Projects
+
+A running list of hands-on builds from this sandbox — each with its own README for setup and details.
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| ✅ **Todo List** | A simple, clean to-do app — add, complete, and delete tasks | HTML, CSS, JavaScript |
+| 🔐 **Auth Endpoints & Backend Setup** | REST API for registration, login, and protected routes | Node.js, Express |
+| 🤖 **AI-Powered Chat Bot** | Chat backend that talks to the OpenAI API and manages conversation context | Node.js, Express, OpenAI API |
+| 🔎 **Semantic Comparator** | Compares documents for semantic similarity rather than exact text matching | Java |
+| 🧠 **AI Foundations Notes** | Reference notes on AI history, core concepts, and terminology | Docs / Markdown |
+
+*(Add a link to each project's folder or repo once available: `[Todo List](./todo-list)`, etc.)*
+
+---
+
 ### 🧰 Tech Stack & Toolkit
 
 | Layer | Technologies & Tools |
 | --- | --- |
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+), React.js |
-| **Backend** | Node.js, REST APIs, SQL/NoSQL Databases |
+| **Backend** | Node.js, Express, REST APIs, SQL/NoSQL Databases |
 | **Dev Tools** | Git, GitHub, VS Code, Postman, npm |
 | **AI / Emerging** | OpenAI API, LLM Tooling, Prompt Pipelines |
 
@@ -57,6 +90,8 @@ This repository acts as a live ledger of my software engineering trajectory. Eve
 
 ---
 
-
+<div align="center">
 
 Happy coding! 🛠️ Track progress, commit often, and keep building! ✨
+
+</div>
